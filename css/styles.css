@@ -32,7 +32,7 @@ ul {
   padding-top: 24px;
   padding-bottom: 25px;
   background-color: var(--header-bg-color);
-  border: 1px solid #ececec;
+  border-bottom: 1px solid #ececec;
 }
 .main-nav {
   display: flex;
