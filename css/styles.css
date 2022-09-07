@@ -499,6 +499,7 @@ img {
   letter-spacing: 0.03em;
   color: #ffffff;
   list-style-type: none;
+  padding-bottom: 20px;
 }
 
 .logo:focus {
