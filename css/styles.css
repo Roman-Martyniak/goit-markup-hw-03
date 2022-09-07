@@ -30,8 +30,8 @@ ul {
 
 img {
   display: block;
-  margin:0;
-  padding:0;
+  margin: 0;
+  padding: 0;
 }
 
 .page-header {
@@ -52,11 +52,11 @@ img {
 }
 
 .container {
-      width: 1200px;
-    margin-left: auto;
-    margin-right: auto;
-    padding-left: 15px;
-    padding-right: 15px;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .section {
@@ -282,12 +282,11 @@ img {
 .project1 {
   display: flex;
   justify-content: center;
-
 }
 
 .project-item {
   border: 1px solid #eeeeee;
- /*  flex: 0 0 33%; */
+  /*  flex: 0 0 33%; */
   height: 100%;
 }
 
@@ -518,7 +517,7 @@ img {
   margin-bottom: 20px;
 }
 
-.footer-menu .list{
+.footer-menu .list {
   display: inline-block;
   font-family: "Roboto";
   font-style: normal;
